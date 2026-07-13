@@ -13,7 +13,7 @@ I work on medical image analysis — using deep learning to make diabetic retino
 
 ## 🎓 Teaching
 
-C Language · Python Language · Data Structures · Design and Analysis of Algorithms · Pattern Recognition using Deep Learning · Computer Vision
+C Language · Python Language · Data Structures · Design and Analysis of Algorithms · Theory of Computation · Compiler Design · Pattern Recognition using Deep Learning · Computer Vision
 
 ## 🔗 Connect
 
